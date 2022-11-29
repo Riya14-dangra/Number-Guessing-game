@@ -1,7 +1,6 @@
 package JAVA_INTERSHIP;
 
-//public class NumberGuessingGame {
-//}
+
 import java.util.Random;
         import java.util.*;
 
